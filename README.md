@@ -1,5 +1,5 @@
-# WorkPermitly
+# WorkPermitly OÜ
 
-Estonian Work Visa and Residence Permit Service
+Estonian Work Visa and Residence Permit Assistance
 
-Prototüübid on allalaaditavad artifacts kaustast.
+Prototüübid ja dokumendid on siin.
